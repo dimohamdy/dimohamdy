@@ -10,7 +10,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><b> A little more about me...  </b>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 let dimo: [String: Any] = [
@@ -23,4 +23,4 @@ let dimo: [String: Any] = [
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
 
-<b>⭐️  Thank you ⭐️</b>
+⭐️  Thank you ⭐️
