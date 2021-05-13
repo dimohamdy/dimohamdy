@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ahmed Hamdy!</h2>
 <img align='right' src="https://raw.githubusercontent.com/dimohamdy/dimohamdy/master/hmu.png" width="200">
-<p>iOS Software Engineer at <a href="https://www.magic.af/">Magic Studio </a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30">
+<p>iOS Software Engineer at <a href="https://www.Andela.com/">Andela </a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30">
 
 
 [![Twitter: dimohamdy](https://img.shields.io/twitter/follow/dimohamdy?style=social)](https://twitter.com/dimohamdy)
