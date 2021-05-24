@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ahmed Hamdy!</h2>
-<img align='right' src="https://raw.githubusercontent.com/dimohamdy/dimohamdy/master/hmu.png" width="200">
+<img align='right' src="https://raw.githubusercontent.com/dimohamdy/dimohamdy/master/Andela.png" width="200">
 <p>iOS Software Engineer at <a href="https://www.Andela.com/">Andela </a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30">
 
 
