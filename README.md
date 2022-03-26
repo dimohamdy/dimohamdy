@@ -1,6 +1,6 @@
-<h2> Hi, I'm Ahmed Hamdy!</h2>
-<img align='right' src="https://raw.githubusercontent.com/dimohamdy/dimohamdy/master/Andela.png" width="200">
-<p>iOS Software Engineer at <a href="https://www.Andela.com/">Andela </a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30">
+<h2> Hi, I'm Dimo Hamdy!</h2>
+<img align='right' src="https://raw.githubusercontent.com/dimohamdy/dimohamdy/master/Mobiquity.png" width="200">
+<p>iOS Software Engineer at <a href="https://www.Mobiquity.com/">Mobiquity</a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30">
 
 
 [![Twitter: dimohamdy](https://img.shields.io/twitter/follow/dimohamdy?style=social)](https://twitter.com/dimohamdy)
@@ -15,7 +15,7 @@
 ```javascript
 let dimo: [String: Any] = [
   pronouns: "he | his",
-  code: [Swift, Objective-C, Vapor, Java],
+  code: [SwiftUI, Swift, Objective-C, Vapor, Java],
   tools: [Xcode, Playground, Android Studio, Sourcetree, Postman],
   hardware: [1sheeld, Arduino, Particle Photon, Raspberry pi]
 ]
