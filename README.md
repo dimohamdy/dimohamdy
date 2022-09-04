@@ -1,5 +1,5 @@
 <h2> Hi, I'm Dimo Hamdy!</h2>
-<img align='right' src="https://raw.githubusercontent.com/dimohamdy/dimohamdy/master/Mobiquity.png" width="200">
+<img  width="100" align='right' src="https://raw.githubusercontent.com/dimohamdy/dimohamdy/master/Mobiquity.png">
 <p>iOS Software Engineer at <a href="https://www.Mobiquity.com/">Mobiquity</a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30">
 
 
