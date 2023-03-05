@@ -1,6 +1,6 @@
 <h2> Hi, I'm Dimo Hamdy!</h2>
 <img  width="200" align='right' src="https://raw.githubusercontent.com/dimohamdy/dimohamdy/master/Mobiquity.png">
-<p>iOS Software Engineer at <a href="https://www.Mobiquity.com/">Mobiquity</a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30">
+<p>Senior iOS Software Engineer at <a href="https://www.Mobiquity.com/">Mobiquity</a><img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30">
 
 
 [![Twitter: dimohamdy](https://img.shields.io/twitter/follow/dimohamdy?style=social)](https://twitter.com/dimohamdy)
