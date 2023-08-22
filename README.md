@@ -15,9 +15,9 @@
 ```javascript
 let dimo: [String: Any] = [
   pronouns: "he | his",
-  code: [SwiftUI, Swift, Objective-C, Vapor, Java],
-  tools: [Xcode, Playground, Android Studio, Sourcetree, Postman],
-  hardware: [1sheeld, Arduino, Particle Photon, Raspberry pi]
+  code: [SwiftUI, UIKit, Swift, Objective-C, Vapor, Java, Kotlin],
+  tools: [Xcode, Playground, Android Studio, Sourcetree, Postman, Proxyman],
+  hardware: [1Sheeld, Arduino, Particle Photon, Raspberry pi]
 ]
 ```
 
